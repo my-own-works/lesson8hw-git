@@ -23,6 +23,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     line-height: 164%;
+    overflow-x: hidden;
 }
 
 
