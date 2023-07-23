@@ -67,7 +67,8 @@ h1 {
 }
 
 button {
-    background-color: #34547A;
+    background-color: darkorange;
+    border-radius: 10px;
     color: #FFF;
     width: 100%;
     max-width: 225px;
