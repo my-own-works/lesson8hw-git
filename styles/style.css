@@ -10,11 +10,6 @@
     font-weight: 500;
 }
 
-body {
-    font-family: 'Roboto', sans-serif;
-    line-height: 164%;
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -23,6 +18,11 @@ body {
     border: 0;
     outline: none;
     color: inherit;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 164%;
 }
 
 
